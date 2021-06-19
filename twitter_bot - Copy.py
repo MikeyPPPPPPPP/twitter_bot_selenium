@@ -418,7 +418,7 @@ bot.login()
 bot.Home()
 print('Deploying BOT')
 bot.explore_button()
-
+'''
 for x in Tabs:
     bot.get_all_posts(x)
 '''
@@ -431,5 +431,5 @@ for x in Tabs:
 
 bot.stop_me()
 print("Stopped")
-'''
+
 
